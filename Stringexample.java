@@ -4,7 +4,7 @@ public class Test {
         String emailId = "hydramarv@gmail.com";
         System.out.println(s1);
         System.out.println(emailId);
-        System.out.println(s1 + emailId);// concatenation//
+        System.out.println(s1 + emailId + s3+s8);// concatenation//
         String s2 = new String("Hello All");
         System.out.println(s2);
         System.out.println(new Test());
